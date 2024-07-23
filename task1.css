@@ -1,0 +1,23 @@
+#div{
+    background-color: blue;
+    position: fixed;
+
+}
+#p1{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+#p2{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+#btn{
+border: color(white);
+background: transparent;
+color: aliceblue;
+
+}
+#p3{
+    margin-top: 100px;
+    margin-left: 10px;
+}
